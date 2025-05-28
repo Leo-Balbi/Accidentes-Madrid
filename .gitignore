@@ -1,0 +1,18 @@
+# Ignorar entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados automáticamente
+accidentes_limpios.csv
+accidentes_limpios.xlsx
