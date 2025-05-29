@@ -16,3 +16,8 @@ Thumbs.db
 # Archivos generados automáticamente
 accidentes_limpios.csv
 accidentes_limpios.xlsx
+
+
+# Ignorar entorno virtual
+.venv/
+
