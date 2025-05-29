@@ -66,3 +66,4 @@ df.to_excel("accidentes_limpios.xlsx", index=False)
 print("Datos exportados correctamente.")
 print(df.info())
 
+df
